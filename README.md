@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F0883E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nethmi+Amasha;Full-Stack+Developer+%F0%9F%9A%80;AI+Builder+%F0%9F%A4%96;Mathematics+Teacher+%F0%9F%91%A9%E2%80%8D%F0%9F%8F%AB;Code.+Create.+Build+the+Future.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F0883E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nethmi+Amasha;Full-Stack+Developer+%F0%9F%9A%80;AI+Builder+%F0%9F%A4%96;Code.+Create.+Build+the+Future.)](https://git.io/typing-svg)
  
 <img src="https://komarev.com/ghpvc/?username=NethmiAmasha2002&style=flat-square&color=f0883e&label=Profile+Views" />
 &nbsp;
@@ -82,11 +82,11 @@ Location: Sri Lanka 🇱🇰 | Role: Full-Stack Developer + AI Builder
  
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| 🔥 **Project One** | Brief description of what it does and why it matters | `React` `Node.js` `Firebase` | [Live](#) · [Repo](#) |
-| 🤖 **Project Two** | Brief description — focus on the problem it solves | `Flutter` `Flask` `MongoDB` | [Live](#) · [Repo](#) |
-| 🧠 **Project Three** | Brief description — mention any AI/ML element | `Python` `React` `Railway` | [Live](#) · [Repo](#) |
- 
-> 💡 *Replace these rows with your real projects — project name, what problem it solves, your stack, and links to the live demo + repo. This is the section recruiters look at first.*
+| 📚 **Student Management System** | Full-stack web app to manage student records with authentication, real-time updates, audit logs, and reminders | `React` `Firebase` `Node.js` | [Live](https://lnkd.in/djZSamBS) · [Repo](https://lnkd.in/dacUMUmb) |
+| 📱 **Learnova – Tutoring App** | Mobile learning platform connecting teachers & students with chat, assignments, scheduling, and payment tracking | `Flutter` `Node.js` `MongoDB` | [Frontend](https://lnkd.in/gM85UMHv) · [Backend](https://lnkd.in/g6hVfE42) |
+| 🤖 **Multi-Agent Bookstore System** | AI-based system using multi-agent architecture and ontology modeling to simulate intelligent bookstore operations | `Python` `Flask` `Owlready2` | [Repo](https://lnkd.in/gqB_zhiw) |
+| 🌊 **BLUORA – Ocean Conservation App** | Gamified mobile app promoting sustainable habits through interactive storytelling and eco-challenges | `React Native` `Figma` | [Demo](https://lnkd.in/dJwNbNJJ) · [Repo](https://lnkd.in/dnUyHf8q) |
+
  
 ---
  
@@ -106,14 +106,14 @@ Location: Sri Lanka 🇱🇰 | Role: Full-Stack Developer + AI Builder
  
 ---
  
-## 🐍 Contribution Snake
+
  
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-  </picture>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 </div>
  
 
@@ -122,11 +122,7 @@ Location: Sri Lanka 🇱🇰 | Role: Full-Stack Developer + AI Builder
  
 ---
  
-## 💬 Quote I Live By
- 
-> *"Behind every successful girl in tech is a screen full of tabs,*
-> *a heart full of dreams, and a coffee mug that's never empty."* ☕💫
- 
+
 ---
  
 <div align="center">
