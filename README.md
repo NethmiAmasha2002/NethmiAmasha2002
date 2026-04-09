@@ -76,33 +76,29 @@ Location: Sri Lanka 🇱🇰 | Role: Full-Stack Developer + AI Builder
  
 ---
  
-## 🚀 Featured Projects
- 
-> These are the projects that show what I can actually build.
- 
+## 🚀 Projects
+
 | Project | Description | Stack | Links |
 |---|---|---|---|
+| 🌸 **GlowSkin – Skincare E-commerce Platform** | Full-stack e-commerce platform with product browsing, cart, secure checkout, real-time order tracking, and admin dashboard. Fully deployed on AWS with scalable architecture | `Angular 17` `Spring Boot 3` `MySQL` `AWS (S3, EC2, RDS)` | [Live](https://lnkd.in/gWPh8xJj) · [Repo](https://lnkd.in/gdAKCbsd) |
 | 📚 **Student Management System** | Full-stack web app to manage student records with authentication, real-time updates, audit logs, and reminders | `React` `Firebase` `Node.js` | [Live](https://lnkd.in/djZSamBS) · [Repo](https://lnkd.in/dacUMUmb) |
 | 📱 **Learnova – Tutoring App** | Mobile learning platform connecting teachers & students with chat, assignments, scheduling, and payment tracking | `Flutter` `Node.js` `MongoDB` | [Frontend](https://lnkd.in/gM85UMHv) · [Backend](https://lnkd.in/g6hVfE42) |
 | 🤖 **Multi-Agent Bookstore System** | AI-based system using multi-agent architecture and ontology modeling to simulate intelligent bookstore operations | `Python` `Flask` `Owlready2` | [Repo](https://lnkd.in/gqB_zhiw) |
-| 🌊 **BLUORA – Ocean Conservation App** | Gamified mobile app promoting sustainable habits through interactive storytelling and eco-challenges | `React Native` `Figma` | [Demo](https://lnkd.in/dJwNbNJJ) · [Repo](https://lnkd.in/dnUyHf8q) |
 
  
 ---
  
 ## 📊 GitHub Stats
- 
-<div align="center">
- 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NethmiAmasha2002&show_icons=true&hide_border=true&title_color=f0883e&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiAmasha2002&layout=compact&hide_border=true&title_color=f0883e&text_color=8b949e&bg_color=0d1117&langs_count=6"/>
- 
-</div>
- 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NethmiAmasha2002&hide_border=true&background=0d1117&stroke=21262d&ring=f0883e&fire=f0883e&currStreakLabel=e6edf3&sideLabels=8b949e&dates=444d56&currStreakNum=e6edf3&sideNums=c9d1d9"/>
-</div>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NethmiAmasha2002&show_icons=true&hide_border=true&title_color=f0883e&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&count_private=true&include_all_commits=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiAmasha2002&layout=compact&hide_border=true&title_color=f0883e&text_color=8b949e&bg_color=0d1117&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NethmiAmasha2002&hide_border=true&background=0d1117&stroke=21262d&ring=f0883e&fire=f0883e&currStreakLabel=e6edf3&sideLabels=8b949e&dates=444d56&currStreakNum=e6edf3&sideNums=c9d1d9" />
+</p>
  
 ---
  
